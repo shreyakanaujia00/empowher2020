@@ -45,3 +45,11 @@ git commit -m "Changes maded for <something> for the app"
 ```
 git push --set-upstream origin
 ```
+9. Pull file to local
+```
+git pull
+```
+10. Once finished editing, push file to origin
+```
+git push
+```
